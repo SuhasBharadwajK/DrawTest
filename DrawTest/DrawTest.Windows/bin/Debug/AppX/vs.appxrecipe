@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SUHAS-PC</Machine>
+    <WindowsUser>Suhas</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>5b384536-1d1a-47d7-bc27-809096542a1c</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Suhas\documents\visual studio 2013\Projects\DrawTest\DrawTest\DrawTest.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>25C6AF36250692C34195094802EFC237589502DD769528F3E749AE605C15DBBB</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>5b384536-1d1a-47d7-bc27-809096542a1c_1.0.0.0_neutral__evbpqqwrht6rp</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>5b384536-1d1a-47d7-bc27-809096542a1c_evbpqqwrht6rp!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>5b384536-1d1a-47d7-bc27-809096542a1c</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Suhas</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Suhas\documents\visual studio 2013\Projects\DrawTest\DrawTest\DrawTest.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-12T13:31:45.602</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Suhas\documents\visual studio 2013\Projects\DrawTest\DrawTest\DrawTest.Windows\bin\Debug\DrawTest.Windows.exe">
+      <PackagePath>DrawTest.Windows.exe</PackagePath>
+      <Modified>2015-01-15T17:20:07.511</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Suhas\documents\visual studio 2013\Projects\DrawTest\DrawTest\DrawTest.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T05:25:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Suhas\documents\visual studio 2013\Projects\DrawTest\DrawTest\DrawTest.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T05:25:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Suhas\documents\visual studio 2013\Projects\DrawTest\DrawTest\DrawTest.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T05:25:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Suhas\documents\visual studio 2013\Projects\DrawTest\DrawTest\DrawTest.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T05:25:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Suhas\documents\visual studio 2013\Projects\DrawTest\DrawTest\DrawTest.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-01-12T13:31:44.416</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Suhas\documents\visual studio 2013\Projects\DrawTest\DrawTest\DrawTest.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-01-15T17:20:07.195</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Suhas\documents\visual studio 2013\Projects\DrawTest\DrawTest\DrawTest.Windows\bin\Debug\DrawTest.Windows.xr.xml">
+      <PackagePath>DrawTest.Windows.xr.xml</PackagePath>
+      <Modified>2015-01-15T17:17:22.975</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Suhas\documents\visual studio 2013\Projects\DrawTest\DrawTest\DrawTest.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-01-12T13:31:45.153</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
